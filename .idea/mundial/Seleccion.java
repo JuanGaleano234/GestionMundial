@@ -1,4 +1,4 @@
-package Mundial;
+package mundial;
 
 public class Seleccion {
     private int rankingFIFA;
